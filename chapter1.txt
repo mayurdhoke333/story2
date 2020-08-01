@@ -1,1 +1,2 @@
 this is chapter1 text
+new line added inside the master barnch
